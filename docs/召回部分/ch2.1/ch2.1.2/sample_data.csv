@@ -1,0 +1,6 @@
+user_id,movie_id,rating,timestamp,title,genres,gender,age,occupation,zip
+6040,803,4,956703932,"Godfather, The (1972)",1,2,3,7,467
+6040,2192,4,956703954,Babe: Pig in the City (1998),4,2,3,7,467
+6040,580,5,956703954,"Silence of the Lambs, The (1991)",8,2,3,7,467
+6040,1782,4,956703977,Rain Man (1988),8,2,3,7,467
+6040,1840,5,956703977,Seven Samurai (The Magnificent Seven) (Shichinin no samurai) (1954),1,2,3,7,467
